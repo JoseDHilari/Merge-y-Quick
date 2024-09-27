@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1525649288 source:f:\fuentes 2018\clase thread\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1525649273 f:\fuentes 2018\clase thread\resource.h
+
+1525697724 source:f:\fuentes 2018\clase thread\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	"resource.h"
+
+1683034714 source:d:\_c\yo\xc\fuentes 2018\clase thread\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	"resource.h"
+
+1525649273 d:\_c\yo\xc\fuentes 2018\clase thread\resource.h
+
+1525649288 source:d:\_c\yo\xc\fuentes 2018\clase thread\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1683671442 source:c:\_y\c++_code_2023\clase thread\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	"resource.h"
+
+1525649274 c:\_y\c++_code_2023\clase thread\resource.h
+
+1525649290 source:c:\_y\c++_code_2023\clase thread\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1525649290 source:c:\_y\c++_code_2023\ordenamiento con hilos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1525649274 c:\_y\c++_code_2023\ordenamiento con hilos\resource.h
+
+1684173403 source:c:\_y\c++_code_2023\ordenamiento con hilos\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	"resource.h"
+
+1687534647 source:c:\users\lenovo\desktop\ordenamiento con hilos\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	"resource.h"
+
+1525649274 c:\users\lenovo\desktop\ordenamiento con hilos\resource.h
+
+1685084887 source:c:\users\lenovo\desktop\ordenamiento con hilos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1687534647 source:c:\users\lenovo\desktop\ \ii\ordenamiento con hilos\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	"resource.h"
+
+1525649274 c:\users\lenovo\desktop\ \ii\ordenamiento con hilos\resource.h
+
+1685084887 source:c:\users\lenovo\desktop\ \ii\ordenamiento con hilos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1725634164 source:c:\users\lenovo\desktop\v\analisis y duseño de algoritmos 2024\ordenamiento con hilos\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	<time.h>
+	"resource.h"
+
+1525649274 c:\users\lenovo\desktop\v\analisis y duseño de algoritmos 2024\ordenamiento con hilos\resource.h
+
+1725626937 source:c:\users\lenovo\desktop\v\analisis y duseño de algoritmos 2024\ordenamiento con hilos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1725626937 source:c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\ordenamiento con hilos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1525649274 c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\ordenamiento con hilos\resource.h
+
+1727440625 source:c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\ordenamiento con hilos\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	<time.h>
+	"resource.h"
+
+1727442363 source:c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\merge y quick sort\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1525649274 c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\merge y quick sort\resource.h
+
+1727442300 source:c:\users\lenovo\desktop\v\analisis y diseño de algoritmos 2024\merge y quick sort\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	<thread>
+	<time.h>
+	"resource.h"
+
